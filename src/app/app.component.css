@@ -1,0 +1,26 @@
+.justify-content-center{
+    width: 100%;
+    margin: 0 auto;
+  }
+  .col-3 {
+    width: 100px;
+    float: left;
+    border: 2px;
+    border-color: #000000;
+    border-style: solid;
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+
+  hr{
+    position: relative;
+    top: 20px;
+    border: none;
+    height: 5px;
+    background: black;
+    margin-bottom: 50px;
+  }
+
+  body { 
+    background-color: #4d1c1c;
+    }
